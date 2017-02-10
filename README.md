@@ -5,10 +5,13 @@
 環境メモ
 
 使用ライブラリ
+
 opencv
+
 http://opencv.org/opencv-3-1.html
 
 glm
+
 http://glm.g-truc.net/0.9.8/index.html
 
 パスのセッティング
